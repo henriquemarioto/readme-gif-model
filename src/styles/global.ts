@@ -23,6 +23,7 @@ export default createGlobalStyle`
         border: 0;
         font-size: 100%;
         font: inherit;
+        font-family: 'Press Start 2P', cursive;
         vertical-align: baseline;
         box-sizing: border-box;
     }
